@@ -4,6 +4,8 @@ Untuk pencatatan dan journaling dalam proyek, tugas, maupun diary. Bagi anda yan
 
 Ini merupakan versi windows dari aplikasi yang sama dengan versi linux.
 
+## Fitur
+Read -- **[JurnalTX Versi Windows WIKI](https://github.com/mrc24tx/JurnalTX_Windows_Version/wiki)**.
 
 ## Download
 
