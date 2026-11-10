@@ -9,5 +9,5 @@ Read -- **[JurnalTX Versi Windows WIKI](https://github.com/mrc24tx/JurnalTX_Wind
 
 ## Download
 
-- Versi 1.0.0 - **[Versi 1.0.0 Windows Version](https://github.com/mrc24tx/JurnalTX-Windows-Version/releases)**.
+- Versi 1.0.0 - **[JurnalTX Versi 1.0.0 Windows Version](https://github.com/mrc24tx/JurnalTX-Windows-Version/releases)**.
 
